@@ -1,3 +1,7 @@
 This is Sample file1
+<<<<<<< HEAD
 
 This is sudhansu Sekhar Prahdna
+=======
+This is comparsion lecture
+>>>>>>> master
