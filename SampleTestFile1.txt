@@ -6,3 +6,4 @@ This is sudhansu Sekhar Prahdna
 This is comparsion lecture
 >>>>>>> master
 This is Stach lecture, Change in FIle1
+This is Stash lecture, Change for untracked file in file 1
