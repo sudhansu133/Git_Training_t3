@@ -1,12 +1,12 @@
 <html>
 <head>
-    <title>Welcome to our T3Cloud!!</title>
+    <title>Welcome to our T3Cloud World!!</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulations!</h1>
+<h1>Congratulations T3 Cloud!</h1>
 <img src="boxfuse.png">
 
-<h2>You have successfully launched your Instance T3Cloud!</h2>
+<h2>Congratulation to T3Cloud!</h2>
 
 
 
