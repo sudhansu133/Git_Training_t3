@@ -6,11 +6,6 @@
 <h1>Congratulations T3 Cloud!</h1>
 <h2>Welcone to T3 Cloud </p>
 <img src="boxfuse.png">
-
-<h2>Congratulation to T3Cloud!</h2>
-
-
-
 <% if("virtualbox".equals(System.getenv("BOXFUSE_PLATFORM_ID"))) { %>
 <h2 style="margin-top: 80px">Next steps</h2>
 
