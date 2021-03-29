@@ -4,6 +4,7 @@
 </head>
 <body style="text-align: center">
 <h1>Congratulations T3 Cloud!</h1>
+<h2>Welcone to T3 Cloud </p>
 <img src="boxfuse.png">
 
 <h2>Congratulation to T3Cloud!</h2>
