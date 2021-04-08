@@ -3,8 +3,8 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulations!</h1>
-<img src="boxfuse.png">
+<h1>Congratulations to T3Cloud!</h1>
+<img src="T3Cloud.png">
 
 <h2>You have successfully launched your Instance T3Cloud!</h2>
 
