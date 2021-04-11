@@ -10,6 +10,6 @@ job('First-Maven-Project-Via-DSL'){
 		maven('clean package', 'pom.xml')
 	}
 	publishers {
-		archivArtifacts '**/*.war'
+		archiveArtifacts '**/*.war'
 	}
 } 
