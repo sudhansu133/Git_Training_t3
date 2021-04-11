@@ -13,7 +13,7 @@ pipeline {
 			}
 		}
 		stage('Deploy') {
-			stpes {
+			steps {
 				echo "Deploying in staging area"
 			}
 		}
